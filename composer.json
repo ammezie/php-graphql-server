@@ -1,0 +1,14 @@
+{
+    "name": "ammezie/php-graphgql-server",
+    "description": "PHP GraphQL server",
+    "require": {
+        "webonyx/graphql-php": "^0.9.11",
+        "jwilsson/spotify-web-api-php": "^1.11"
+    },
+    "authors": [
+        {
+            "name": "Chimezie Enyinnaya",
+            "email": "meziemichael@gmail.com"
+        }
+    ]
+}
